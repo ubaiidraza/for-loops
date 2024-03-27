@@ -54,10 +54,10 @@
 
 // var userName = prompt('Please Enter your Name!')
 
-// if (userName == "Haseeb"){
-//     console.log("Hello, Haseeb! It's great to see you again!")
+// if (userName == "ubaid"){
+//     console.log("Hello, ubaid! It's great to see you again!")
 // }else {
-//     console.log("Do nothing if the name entered is not 'Haseeb' ")
+//     console.log("Do nothing if the name entered is not 'ubaid' ")
 // }
 
 // === IF ELSE STATEMENTS Q 5 ===
@@ -100,7 +100,7 @@
 
 // var password = prompt("Enter Your Password")
 
-// if (password === "Haseeb"){
+// if (password === "ubaid"){
 //     console.log("Correct! The password you entered matches the original password");
 // }else {
 //     console.log("Incorrect password");
